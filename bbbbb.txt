@@ -1,0 +1,35 @@
+tomcat命令：https://jingyan.baidu.com/album/154b46311a6feb28ca8f412e.html?picindex=4
+SSL证书申请：https://www.pianyissl.com/
+
+SSL证书申请2：
+    https://www.trustauth.cn/marketing/freessl.html?hmsr=DVQRY&hmpl=&hmcu=&hmkw=&hmci=
+    https://certmall.trustauth.cn/Free/index.html#auth_method
+	file:///C:/Users/win7/Downloads/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/pc.mejun.com.cn/Guide.html
+	https://www.trustauth.cn/ssl-guide/676.html?_ga=2.80876830.807577354.1559209255-1967510650.1559209255
+	https://certmall.trustauth.cn/Home/Member/index.html
+
+	
+SSl证书秘钥匹配：https://www.trustauth.cn/SSLTool/tool/crt_key_match.jsp
+
+4.配置tomcat实现HTTPS：
+
+A、https://www.jianshu.com/p/6463c46c01e2
+
+B、https://www.cnblogs.com/wanghaoyuhappy/p/5267702.html
+
+C、https://www.jianshu.com/p/2f534d1cd519
+
+
+
+nginx实现HTTPS：
+
+	https://www.cnblogs.com/bincoding/p/6118270.html
+	https://yq.aliyun.com/articles/672835
+	
+	
+ssl证书安装：
+
+	https://jingyan.baidu.com/album/73c3ce284d2632e50343d9b2.html?picindex=4
+	https://jingyan.baidu.com/article/ac6a9a5e36977d2b653eacb2.html
+	https://blog.csdn.net/monster_axi/article/details/80545541
+	https://jingyan.baidu.com/article/63f236287242c00209ab3d44.html
